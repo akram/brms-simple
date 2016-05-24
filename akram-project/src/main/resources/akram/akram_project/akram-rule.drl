@@ -1,0 +1,7 @@
+package akram.akram_project;
+
+rule akramrule
+when
+then
+   System.out.println("Hello Richard");
+end
